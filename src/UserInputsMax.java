@@ -39,7 +39,5 @@ public class UserInputsMax {
 
     }
 
-    public static void MinValue () {
+      }
 
-    }
-}
